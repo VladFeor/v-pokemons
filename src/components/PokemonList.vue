@@ -46,7 +46,7 @@ export default {
 </script>
   
   
-<style lang="scss" scoped>
+<style scoped>
 .list {
     margin: 0 auto;
     width: 400px;

@@ -32,7 +32,7 @@ export default {
 }
 </script>
   
-<style lang="scss" scoped>
+<style  scoped>
 h1 {
   text-align: center;
 }
